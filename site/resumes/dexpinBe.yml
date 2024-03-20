@@ -1,0 +1,101 @@
+template: "online-cv"
+skin: "blue"
+
+
+basic_info:
+
+    first_name: María
+    last_name: Sánchez
+    
+    motto: Me gusta aprender cosas nuevas.
+    
+    focus: Mejorar.
+    
+    summary: |
+    Siempre estoy intentando aprender cosas nuevas con las que trabajar y poder mejorar en la vida en general y en el ámbito profesional en particular.
+     
+    avatar: https://ca.slack-edge.com/T0BFXMWMV-U06H4807CU8-953c8b05ae0f-512
+
+    email: tachibana87@hotmail.com
+    phone: 670399198 
+    linkedin: https://www.linkedin.com/in/mar%C3%ADa-s%C3%A1nchez-fern%C3%A1ndez-7a76212b8/
+    
+   
+    github: https://github.com/DexpinBe
+    
+    stack-overflow: https://stackoverflow.com/users/23331606/ex-perimental
+
+
+    languages:
+      - idiom: Español
+        level: nativo
+
+      - idiom: English
+        level: B2-C1
+
+
+    interests:
+      - item: Fútbol.
+
+      - item: Cocinar.
+
+      - item: Videojuegos.
+
+
+education:
+- degree: Ilustración
+      university: EASD Anton Faílde
+      time: 2007-2009
+      details: He estudiado Ilustración especializándome en Diseño gráfico.
+
+    - degree: Diseñadora de Interiores
+      university: EASD Anton Faílde
+      time: 2009-2011
+      details: |
+        He estudiado el Grado de Diseño de Interiores aplicando los conocimientos de dibujo técnico que adquirí en el FP.
+
+  
+# Your previous job experiences or volunteer
+experiences:
+    - role: Camarera
+      time: 2009 - 2009
+      company: Burger King
+         details: |
+        TRrabajé de camarera mientras estudiaba.
+
+    - role: Teleoperadora
+      time: 2011 -2012
+      company: Jazztel
+      
+    - role: Teleoperadora
+      time: 2012 -2013
+      company: Orange
+      
+      - role: Teleoperadora
+      time: 2013 -2016
+      company: Gas Natural Fenosa
+      
+      - role: Teleoperadora
+      time: 2019 - Actualidad
+      company: Gestión C
+
+projects:
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+ 
+skills:
+    toolset:
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: JavaScript
+        level: 50%
+
+      - name: Sketch & Photoshop
+        level: 95%
+
+      - name: Autocad
+        level: 95%
